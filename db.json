@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "username": "testuser",
+      "password": "password123",
+      "email": "test@example.com",
+      "role": "admin"
+    },
+    {
+      "id": "12c8",
+      "username": "testuser",
+      "password": "password123"
+    },
+    {
+      "id": "1b5e",
+      "username": "testuser",
+      "password": "password123"
+    }
+  ],
+  "scans": []
+}

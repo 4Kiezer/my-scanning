@@ -12,7 +12,7 @@ function Login({ onLogin }) {
 
         try {
             // API call to authenticate the user
-            const response = await axios.post('https://api.example.com/auth/login', {
+            const response = await axios.post('http://localhost:5000/users', {
                 username,
                 password
             });
